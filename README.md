@@ -14,7 +14,7 @@ npm run dev
 ```
 
 ## Requests
-Get: /users - return all users
-Get: /users/:username - return all users with the specific username
-Post /users - add new user (username, firstName, lastName, age)
+* Get: /users - return all users
+* Get: /users/:username - return all users with the specific username
+* Post /users - add new user (username, firstName, lastName, age)
 
