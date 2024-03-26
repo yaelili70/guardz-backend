@@ -15,7 +15,7 @@ npm run dev
 
 ## Requests
 * Get: /users - return all users (username, firstName, lastName, age, createdAt)
-* Get: /users/:username - return all users with the specific username (I didn't use it, just arote it to have an extra path)
+* Get: /users/:username - return all users with the specific username (I didn't use it, just wrote it to have an extra path)
 * Post /users - add new user (username, firstName, lastName, age)
 
 ## Comments
