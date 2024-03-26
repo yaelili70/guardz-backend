@@ -20,6 +20,8 @@ npm run dev
 
 ## Comments
 The server is running on a container named server-container.
+![image](https://github.com/yaelili70/guardz-backend/assets/52917225/1b3f09ee-bec4-4139-86e7-9c532ef50704)
+
 Here is the list of the containers:
 ![image](https://github.com/yaelili70/guardz-backend/assets/52917225/4c22f2d0-9da0-4651-87a2-0b4a0128b25b)
 (the client container doesnt work well, I wrote more on its repository)
